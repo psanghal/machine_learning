@@ -24,8 +24,6 @@ Communicate data product to specific audience, so that it helps non-technically 
 
 Data Source: 
 
-Kuzilek, J., Hlosta, M., & Zdrahal, Z. (2017). 
-
+Kuzilek, J., Hlosta, M., & Zdrahal, Z. (2017).
 Open university learning analytics dataset. Scientific data, 4, 170171.
-
 https://www.nature.com/articles/sdata2017171
