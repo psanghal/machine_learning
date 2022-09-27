@@ -33,6 +33,7 @@ https://www.nature.com/articles/sdata2017171
 In this case, we will quantify uncertainty in the linear model by bootstrapping a model predictor 5000 times to build a sampling distribution. Did we spot standard error in the mean of the sampling distribution? Yes, it's critical to present this model uncertainty to stakeholders prior to deployment.
 
 Data Source: 
+
 [Boston Dataset](http://lib.stat.cmu.edu/datasets/boston)
 
 The two predictors used from the dataset are as under:
