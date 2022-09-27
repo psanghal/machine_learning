@@ -1,6 +1,6 @@
 # machine_learning
 
-## Open University Learning Analytics (OULAD) dataset
+## 1. Open University Learning Analytics (OULAD) dataset
 
 In this project, we will perform 4 analytical tasks to help the office of innovative learning (OIL) at the University of Michigan to provide advisory intervention to students who are at risk of dropping the course or not likely to succeed.  
 
@@ -27,3 +27,18 @@ Data Source:
 Kuzilek, J., Hlosta, M., & Zdrahal, Z. (2017).
 Open university learning analytics dataset. Scientific data, 4, 170171.
 https://www.nature.com/articles/sdata2017171
+
+## 2. Boston Housing dataset: 
+
+In this case, we will quantify uncertainty in the linear model by bootstrapping a model predictor 5000 times to build a sampling distribution. Did we spot standard error in the mean of the sampling distribution? Yes, it's critical to present this model uncertainty to stakeholders prior to deployment.
+
+Data Source: 
+[Boston Dataset](http://lib.stat.cmu.edu/datasets/boston)
+The two predictors used from the dataset are: 
+1. RM: Average number of rooms per dwelling
+2. LSTAT: Average proportion of adults without high school education and the proportion of male workers classified as labourers. 
+
+
+
+
+
