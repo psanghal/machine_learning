@@ -34,7 +34,7 @@ In this case, we will quantify uncertainty in the linear model by bootstrapping 
 
 Data Source: 
 
-[Boston Dataset](http://lib.stat.cmu.edu/datasets/boston)
+http://lib.stat.cmu.edu/datasets/boston
 
 The two predictors used from the dataset are as under:
 1. RM: Average number of rooms per dwelling
