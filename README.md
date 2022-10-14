@@ -40,7 +40,12 @@ The two predictors used from the dataset are as under:
 1. RM: Average number of rooms per dwelling
 2. LSTAT: Average proportion of adults without high school education and the proportion of male workers classified as labourers. 
 
+## Visualize Model Uncertainty: 
+Now, let's visualize model uncertainty using Hypothetical Outcome Plot (HOP) and Spaghetti plots to simulate different outcomes.   
 
+Data Source: 
+
+Folder Dataset/Housing 'Salary_Data.csv'
 
 
 
